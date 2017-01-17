@@ -1,0 +1,66 @@
+html,
+body,
+.view {
+    height: 100%;
+}
+
+.view {
+    background: url("../images/bear.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.flex-center {
+  color: #fff;
+  text-align: center;
+}
+
+#contact .fa {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+.scrolling-navbar {
+        -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
+        transition: background .5s ease-in-out, padding .5s ease-in-out;
+}
+
+.top-nav-collapse {
+    background-color: #1C2331;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #1C2331;
+    }
+}
+
+.view img, .view video {
+    display: block;
+    position: relative;
+}
+
+.card img {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.card img, .img-fluid, .section .view, .section img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar {
+  padding-top: 0px;
+}
+
