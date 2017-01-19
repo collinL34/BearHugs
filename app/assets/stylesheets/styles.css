@@ -67,3 +67,7 @@ body,
 .list {
     padding-top: 20px;
 }
+
+.page-footer {
+    width: 100%;
+}
