@@ -73,3 +73,11 @@ margin-bottom: 1rem;
 .page-footer {
     width: 100%;
 }
+
+.card .card-title {
+    text-align: center;
+}
+
+.card .card-text {
+    text-align: center;
+}
