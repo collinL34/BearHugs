@@ -1,6 +1,6 @@
 BearHugs Fan Page README
 
-This webiste is a client project for their dog. As a about page to specify the history and life of their most amazing dog in 
+This website is a client project for their dog. As a about page to specify the history and life of their most amazing dog in 
 the world.
 
 Tech Stack:
